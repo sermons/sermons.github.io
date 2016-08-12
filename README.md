@@ -1,2 +1,2 @@
-# sermons.github.io
-Archive of Sean's sermons and talks
+# sermons.seanho.com
+Archive of Sean's sermons and talks with slides
