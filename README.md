@@ -1,3 +1,12 @@
+## [Eph4:1-3, One Calling](one-calling)
+Last given: 2016-08-25 at Evangelical Chinese Bible Church (Coquitlam)
+
+## [Eph4:11-13, One Body](one-body)
+Last given: 2016-08-25 at Evangelical Chinese Bible Church (Coquitlam)
+
+## [Eph4:14-16, One Faith](one-faith)
+Last given: 2016-08-28 at Evangelical Chinese Bible Church (Coquitlam)
+
 ### [Is58, Redeeming the Weekends](redeeming-weekends)
 Last given: 2016-08-21 at Tri-City Canaan Church (Port Coquitlam)
 
