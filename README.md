@@ -1,3 +1,6 @@
+## [Ps127, Labour of Grace](labour-of-grace)
+Last given: 2016-09-04 at Fujian Evangelical Church (Richmond)
+
 ## [Eph4:1-3, One Calling](one-calling)
 Last given: 2016-08-25 at Evangelical Chinese Bible Church (Coquitlam)
 
