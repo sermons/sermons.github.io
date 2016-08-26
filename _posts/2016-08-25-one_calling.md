@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Calling
-subtitle: Last given: 2015-08-25 at Evangelical Chinese Bible Church (Coquitlam)
+subtitle: Last given at Evangelical Chinese Bible Church (Coquitlam)
 
 ---
 
