@@ -1,3 +1,7 @@
+# Sermons by Sean
+
+Theme: [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
+
 ## [Ps127, Labour of Grace](labour-of-grace)
 Last given: 2016-09-04 at Fujian Evangelical Church (Richmond)
 
