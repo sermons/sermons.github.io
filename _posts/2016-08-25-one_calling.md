@@ -1,8 +1,9 @@
 ---
 layout: post
 title: One Calling
-subtitle: at Evangelical Chinese Bible Church (Coquitlam)
+subtitle: Ephesians 4:1-3
 
 ---
 
-### [Eph4:1-3, One Calling](/one-calling)
+### Slides: [One Calling](/one-calling)
+Evangelical Chinese Bible Church (Coquitlam)

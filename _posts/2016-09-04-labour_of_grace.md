@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Labour of Grace
-subtitle: at Fujian Evangelical Church (Richmond)
+subtitle: Psalm 127
 
 ---
 
-### [Ps127, Labour of Grace](/labour-of-grace)
+### Slides: [Labour of Grace](/labour-of-grace)
+Fujian Evangelical Church (Richmond)

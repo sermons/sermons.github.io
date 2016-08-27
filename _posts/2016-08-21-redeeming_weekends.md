@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Redeeming the Weekends
-subtitle: at Tri-City Canaan Church (Port Coquitlam)
+subtitle: Isaiah 58
 
 ---
 
-### [Is58, Redeeming the Weekends](/redeeming-weekends)
+### Slides: [Redeeming the Weekends](/redeeming-weekends)
+Tri-City Canaan Church (Port Coquitlam)

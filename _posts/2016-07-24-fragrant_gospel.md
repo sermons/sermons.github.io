@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The Fragrant Gospel
-subtitle: at Evangelical Chinese Church (Seattle)
+subtitle: Acts 28:17-31
 
 ---
 
-### [Ac28:17-31, The Fragrant Gospel](/fragrant-gospel)
+### Slides: [The Fragrant Gospel](/fragrant-gospel)
+Evangelical Chinese Church (Seattle)
