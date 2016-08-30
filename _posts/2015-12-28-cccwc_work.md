@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Christian Professional: Glorifying God in Our Work
+title: "The Christian Professional: Glorifying God in Our Work"
 subtitle: 1 Corinthians 1:27-29
 
 ---

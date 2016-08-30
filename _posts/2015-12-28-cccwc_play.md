@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Christian Professional: Glorifying God in Our Leisure
+title: "The Christian Professional: Glorifying God in Our Leisure"
 subtitle: Matthew 11:28-30
 
 ---
