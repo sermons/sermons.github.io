@@ -5,5 +5,5 @@ subtitle: Psalm 19:1
 
 ---
 
-### Slides: [Science and the Bible](/science-and-bible)
+### [Science and the Bible](/science-and-bible)
 Evangelical Chinese Bible Church (Surrey)

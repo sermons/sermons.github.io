@@ -5,5 +5,5 @@ subtitle: "Ephesians 4:1-3"
 
 ---
 
-### Slides: [One Calling](/one-calling)
+### [One Calling (1/3)](/one-calling)
 Evangelical Chinese Bible Church (Coquitlam)

@@ -5,5 +5,5 @@ subtitle: Psalm 127
 
 ---
 
-### Slides: [Labour of Grace](/labour-of-grace)
+### [Labour of Grace](/labour-of-grace)
 Fujian Evangelical Church (Richmond)
