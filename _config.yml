@@ -70,7 +70,7 @@ url-pretty: "sermons.seanho.com"  # eg. "deanattali.com/beautiful-jekyll"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:title/
+permalink: /:title/
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
