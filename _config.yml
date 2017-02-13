@@ -43,7 +43,7 @@ author:
   name: Sean Ho
   email: "sermons@seanho.com"
   facebook: seanho00
-  github: seanho00
+  github: sermons
   twitter: seanho
   linkedin: seanho00
 
@@ -56,7 +56,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
