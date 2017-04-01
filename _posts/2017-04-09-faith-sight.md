@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faith Without Sight
+title: Faith Without Seeing
 subtitle: John 20:24-29
 image: /faith-sight/static/img/thumbnail.jpg
 
