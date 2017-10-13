@@ -23,6 +23,8 @@ layout: default
     Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
+    <div class="post-entry-container">
+
     {% if post.image %}
     <div class="post-image">
       <a href="{{ post.url | prepend: site.baseurl }}">
@@ -34,6 +36,8 @@ layout: default
     <div class="post-entry">
       {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
     </div>
 
     <div class="blog-tags">
