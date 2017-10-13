@@ -1,5 +1,5 @@
 ---
 layout: tag_index
-title: Sermons tagged AFBC
+title: Sermons tagged | afbc
 tag: afbc
 ---
