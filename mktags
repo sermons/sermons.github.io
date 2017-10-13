@@ -1,0 +1,23 @@
+#! /bin/sh
+# create tag indexes from posts
+# TODO: properly parse yaml header 
+
+postdir="_posts"
+tagdir="tag"
+
+tags=$(
+  cat $postdir/*.md |
+  awk '{OFS="\n"} /^tags:/{ $1=""; print }' |
+  sort -u |
+  tr '[:space:]' ' '
+)
+
+for tag in $tags; do
+  cat <<__EOF__ > "${tagdir}/${tag}.md"
+---
+layout: tag_index
+title: Sermons tagged | $tag
+tag: $tag
+---
+__EOF__
+done
