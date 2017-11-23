@@ -38,7 +38,7 @@ fb-img: "img/cross.svg"
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
 	{% if post.qr %}
-	<img src="{{ post.qr }}">
+	<div class="post-qr"><img src="{{ post.qr }}"></div>
 	{% endif %}
       </div>
     </div>
