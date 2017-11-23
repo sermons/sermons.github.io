@@ -37,6 +37,9 @@ fb-img: "img/cross.svg"
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
+	{% if post.qr %}
+	<img src="{{ post.qr }}">
+	{% endif %}
       </div>
     </div>
 
