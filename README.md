@@ -10,3 +10,4 @@
   + Cropped/resized to '`800x800>`'
 
 Theme: [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
+
