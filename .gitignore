@@ -7,4 +7,9 @@ bower_components
 dist
 *.log
 .sass-cache
-/index.html
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
