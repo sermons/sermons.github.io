@@ -7,4 +7,4 @@ qr: /singleness/static/img/singleness-qr.png
 tags: 1corinthians fec
 
 ---
-Tri-City Chinese Church MB (Port Moody)
+Tri-City Chinese Christian Church MB (Port Moody)
