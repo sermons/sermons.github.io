@@ -4,7 +4,7 @@ title: Singleness in the End Times
 subtitle: 1 Corinthians 7:25-35
 image: /singleness/static/img/thumbnail.jpg
 qr: /singleness/static/img/singleness-qr.png
-tags: 1corinthians fec
+tags: 1corinthians tcccmb
 
 ---
 Tri-City Chinese Christian Church MB (Port Moody)
