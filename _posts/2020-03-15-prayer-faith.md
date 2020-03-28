@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Prayer of Faith
-subtitle: Mark 11:12-14, 20-25
-image: /prayer-faith/static/img/thumbnail.jpg
-qr: /prayer-faith/static/img/prayer-faith-qr.png
-tags: mark cccc
+title: That My House May Be Filled
+subtitle: Luke 14:15-24
+image: /filled/static/img/thumbnail.jpg
+qr: /filled/static/img/filled-qr.png
+tags: luke svpg
 
 ---
-Christ Church of China (Coquitlam)
+Pacific Grace MB Church (South Vancouver)
