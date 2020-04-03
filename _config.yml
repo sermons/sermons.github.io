@@ -23,6 +23,7 @@ url: "https://sermons.seanho.com"
 navbar-links:
   Home: ""
   Sean Ho: "https://seanho.com"
+  YouTube: "https://www.youtube.com/channel/UCbgjb3nxSJBPIzszJ0oOWZg/"
   GitHub: "https://github.com/sermons"
   Template: "https://reveal-skel.seanho.com/"
 
@@ -79,7 +80,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: channel/UCbgjb3nxSJBPIzszJ0oOWZg
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
