@@ -22,8 +22,8 @@ url: "https://sermons.seanho.com"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Sean Ho: "https://seanho.com"
-  YouTube: "https://www.youtube.com/channel/UCbgjb3nxSJBPIzszJ0oOWZg/"
+  Sean Ho: "https://seanho.com/"
+  YouTube: "https://youtube.seanho.com/"
   GitHub: "https://github.com/sermons"
   Template: "https://reveal-skel.seanho.com/"
 
