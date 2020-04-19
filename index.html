@@ -40,13 +40,16 @@ fb-img: "img/cross.svg"
 	{% if post.qr %}
 	<div class="post-qr"><img src="{{ post.qr }}"></div>
 	{% endif %}
-	{% if post.youtube %}
-	<div class="post-youtube">
+	<div class="post-links" style="font-size: 2em">
+	  <a href="{{ post.url | relative_url }}/{{ post.url }}.pdf">
+	    <i class="fa fa-file-pdf"></i>
+	  </a>
+	  {% if post.youtube %}
 	  <a href="https://www.youtube.com/watch?v={{ post.youtube }}">
 	    <i class="fa fa-youtube"></i>
 	  </a>
+	  {% endif %}
 	</div>
-	{% endif %}
       </div>
     </div>
 
