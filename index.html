@@ -37,11 +37,11 @@ fb-img: "img/cross.svg"
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
           <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
-	{% if post.qr %}
-	<div class="post-qr"><img src="{{ post.qr }}"></div>
-	{% endif %}
+	<div class="post-qr">
+	  <img src="{{ post.url | relative_url }}/img/{{ post.slug }}-qr.png"/>
+	</div>
 	<div class="post-links" style="font-size: 2em">
-	  <a href="{{ post.url | relative_url }}/{{ post.url | remove: "/" }}.pdf">
+	  <a href="{{ post.url | relative_url }}/{{ post.slug }}.pdf">
 	    <i class="fa fa-file-pdf-o"></i>
 	  </a>
 	  {% if post.youtube %}
