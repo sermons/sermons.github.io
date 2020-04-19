@@ -40,7 +40,11 @@ fb-img: "img/cross.svg"
           <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
 	<div class="post-qr">
+	  {% if post.qr %}
+	  <img src="{{ post.qr | relative_url }}"/>
+	  {% else %}
 	  <img src="{{ post.url | relative_url }}/img/{{ post.slug }}-qr.png"/>
+	  {% endif %}
 	</div>
 	<div class="post-links" style="font-size: 2em">
 	  <a href="{{ post.url | relative_url }}/{{ post.slug }}.pdf">
