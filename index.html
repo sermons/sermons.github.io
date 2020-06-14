@@ -29,7 +29,7 @@ fb-img: "img/cross.svg"
 	  {% if post.image %}
           <img src="{{ post.image | relative_url }}"/>
 	  {% else %}
-	  <img src="{{ post.url | relative_url }}/img/{{ post.slug }}.jpg"/>
+	  <img src="{{ post.url | relative_url }}/img/{{ post.slug }}.png"/>
 	  {% endif %}
         </a>
       </div>
