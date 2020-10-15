@@ -2,7 +2,7 @@
 layout: post
 title: Compassionate Father
 subtitle: Psalm 103:8-14
-tags: psalm fcnabc
+tags: psalm fcnab
 youtube: 6GGYdLHCpek
 
 ---
